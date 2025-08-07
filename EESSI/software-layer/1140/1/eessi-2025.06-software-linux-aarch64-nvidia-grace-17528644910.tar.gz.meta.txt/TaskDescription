@@ -1,0 +1,19 @@
+{
+  "uploader": {
+    "username": "eessibot",
+    "ip": "134.94.1.129",
+    "hostname": "jrlogin02.jureca"
+  },
+  "payload": {
+    "filename": "eessi-2025.06-software-linux-aarch64-nvidia-grace-17528644910.tar.gz",
+    "size": "22844794",
+    "ctime": "Fri Jul 18 20:48:15 CEST 2025",
+    "sha256sum": "79794c700c75ff5edc8d9ca01632cc3bcaf8d304fbc4b760286f2a925c48ce13",
+    "url": "https://software.eessi.io-2025.06.s3.amazonaws.com/2025.06/software/linux/aarch64/nvidia/grace/17528644910/eessi-2025.06-software-linux-aarch64-nvidia-grace-17528644910.tar.gz"
+  },
+  "link2pr": {
+    "repo": "EESSI/software-layer",
+    "pr": "1140",
+    "pr_comment_id": "3090339462"
+  }
+}
