@@ -1,0 +1,2 @@
+remote_file_path = 2025.06/software/linux/aarch64/nvidia/grace/17528644910/eessi-2025.06-software-linux-aarch64-nvidia-grace-17528644910.tar.gz.meta.txt
+pull_request_dir = EESSI/software-layer/1140/1/eessi-2025.06-software-linux-aarch64-nvidia-grace-17528644910.tar.gz.meta.txt
