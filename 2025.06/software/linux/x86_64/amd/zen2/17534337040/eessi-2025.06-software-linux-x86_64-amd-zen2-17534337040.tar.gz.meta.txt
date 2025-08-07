@@ -1,2 +1,0 @@
-remote_file_path = 2025.06/software/linux/x86_64/amd/zen2/17534337040/eessi-2025.06-software-linux-x86_64-amd-zen2-17534337040.tar.gz.meta.txt
-pull_request_dir = EESSI/software-layer-scripts/42/0/eessi-2025.06-software-linux-x86_64-amd-zen2-17534337040.tar.gz.meta.txt

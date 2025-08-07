@@ -1,2 +1,0 @@
-remote_file_path = 2025.06/software/linux/aarch64/a64fx/17528657880/eessi-2025.06-software-linux-aarch64-a64fx-17528657880.tar.gz.meta.txt
-pull_request_dir = EESSI/software-layer/1140/0/eessi-2025.06-software-linux-aarch64-a64fx-17528657880.tar.gz.meta.txt
