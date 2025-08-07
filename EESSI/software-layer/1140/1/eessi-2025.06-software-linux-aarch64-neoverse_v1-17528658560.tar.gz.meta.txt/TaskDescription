@@ -1,0 +1,19 @@
+{
+  "uploader": {
+    "username": "bot",
+    "ip": "3.123.10.249",
+    "hostname": "login1.int.aws-rocky88-202310.eessi.io"
+  },
+  "payload": {
+    "filename": "eessi-2025.06-software-linux-aarch64-neoverse_v1-17528658560.tar.gz",
+    "size": "22363614",
+    "ctime": "Fri Jul 18 19:11:01 UTC 2025",
+    "sha256sum": "645d7bd8d949443ca30fde603c6ed5937a7994fc11dee16a35f561f39f70aac9",
+    "url": "https://software.eessi.io-2025.06.s3.amazonaws.com/2025.06/software/linux/aarch64/neoverse_v1/17528658560/eessi-2025.06-software-linux-aarch64-neoverse_v1-17528658560.tar.gz"
+  },
+  "link2pr": {
+    "repo": "EESSI/software-layer",
+    "pr": "1140",
+    "pr_comment_id": "3090385126"
+  }
+}
