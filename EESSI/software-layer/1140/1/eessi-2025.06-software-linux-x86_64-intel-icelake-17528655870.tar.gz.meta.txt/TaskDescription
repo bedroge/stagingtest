@@ -1,0 +1,19 @@
+{
+  "uploader": {
+    "username": "bot",
+    "ip": "3.123.10.249",
+    "hostname": "login1.int.aws-rocky88-202310.eessi.io"
+  },
+  "payload": {
+    "filename": "eessi-2025.06-software-linux-x86_64-intel-icelake-17528655870.tar.gz",
+    "size": "22389375",
+    "ctime": "Fri Jul 18 19:06:32 UTC 2025",
+    "sha256sum": "b2cad287f49fc8d3e4eec37916237db91aa7dd38ca3c5e8443649d49ce846d8c",
+    "url": "https://software.eessi.io-2025.06.s3.amazonaws.com/2025.06/software/linux/x86_64/intel/icelake/17528655870/eessi-2025.06-software-linux-x86_64-intel-icelake-17528655870.tar.gz"
+  },
+  "link2pr": {
+    "repo": "EESSI/software-layer",
+    "pr": "1140",
+    "pr_comment_id": "3090383232"
+  }
+}
