@@ -1,0 +1,19 @@
+{
+  "uploader": {
+    "username": "bot",
+    "ip": "3.123.10.249",
+    "hostname": "login1.int.aws-rocky88-202310.eessi.io"
+  },
+  "payload": {
+    "filename": "eessi-2025.06-software-linux-x86_64-amd-zen2-17534337040.tar.gz",
+    "size": "19060",
+    "ctime": "Fri Jul 25 08:55:06 UTC 2025",
+    "sha256sum": "620a5527b65d953bfc186fb431cbb0a4c69b1f554c5ede12b7ed63a0df752c7f",
+    "url": "https://software.eessi.io-2025.06.s3.amazonaws.com/2025.06/software/linux/x86_64/amd/zen2/17534337040/eessi-2025.06-software-linux-x86_64-amd-zen2-17534337040.tar.gz"
+  },
+  "link2pr": {
+    "repo": "EESSI/software-layer-scripts",
+    "pr": "42",
+    "pr_comment_id": "3116961822"
+  }
+}
